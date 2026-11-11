@@ -33,10 +33,14 @@ Currently a **Staff/Assistant Consultant at EY Tech Consulting (Oracle Practice)
 
 ## 📌 Projects
 - **Stock Market News Sentiment Analysis**: 
+
 Develop an an AI-driven sentiment analysis system that will automatically process and analyze news articles to gauge market sentiment, and summarize the news at a weekly level to enhance the accuracy of their stock price predictions and optimize investment strategies. **80% accuracy**
-- **Bank Chrun Classification**:
+- **Bank Churn Classification**:
+
 Analyze the customer data, build a neural network to help the operations team identify the customers that are more likely to churn, and provide recommendations on how to retain such customers
+
 - **Credit Card Users Churn Prediction**: 
+
 Analyze the data and come up with a predictive model to determine if a customer will leave the credit card services or not and the reason behind it
 ---
 
