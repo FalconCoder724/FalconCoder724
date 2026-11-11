@@ -41,7 +41,7 @@ Analyze the data and come up with a predictive model to determine if a customer 
 ---
 
 ## 💼 Experience Highlights
-- **EY Tech Consulting **: data processing, data mapping, data architecting, migration and integration planning, knowledge engineering, requirements gathering, solution research, approval/purchase-order flow documentation
+- **EY Tech Consulting**: data processing, data mapping, data architecting, migration and integration planning, knowledge engineering, requirements gathering, solution research, approval/purchase-order flow documentation
 - **Sai Consulting Services**: market research, competitor analysis, web design, SEO, marketing analytics
 - **McDonald Automotive Group (IT Intern)**: deployed 100+ systems; lifted AP/AR efficiency **10%** by consolidating vendor and customer databases
 - **Luddy Consulting Association**: built a ServiceNow dashboard with interactive filters, presented to the Crowe team
